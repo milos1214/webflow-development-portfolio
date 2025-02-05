@@ -15,7 +15,7 @@ This portfolio is built to:
 
 <br>
 
-👉[Explore Portfolio](https://milos-webflow-dev-portfolio.webflow.io/)
+[![Explore Portfolio](https://img.shields.io/badge/Explore%20Portfolio-black?style=for-the-badge)](https://milos-webflow-dev-portfolio.webflow.io/)
 
 ## Features 🌟
 - Interactive & Responsive Design: The portfolio adapts to different screen sizes, ensuring an optimal experience across desktop, tablet, and mobile devices.
